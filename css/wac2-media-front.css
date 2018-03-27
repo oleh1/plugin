@@ -1,0 +1,232 @@
+@media screen and (max-width: 640px) {
+    .wac2_main_categories{
+        float: none;
+        width: 100%;
+    }
+
+    #wac2_tablerl td{
+        display: block;
+        padding: 0;
+    }
+
+    #wac2_tabrl{
+        padding: 0;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .wac2_one_post_company{
+        margin: 0 0 10px 0;
+    }
+}
+
+@media screen and (max-width: 749px) {
+    .wac2_one_post_company > div.wac2_grid > div{
+        float: none;
+        width: 100% !important;
+        background: white;
+        box-shadow: 0 0 10px rgba(0,0,0,0.5);
+        border-radius: 3px;
+        margin: 0 0 10px 0;
+    }
+    .wac2_one_post_company > div.wac2_grid{
+        background: none;
+        box-shadow: none;
+        border-radius: inherit;
+        margin: 0;
+        overflow: unset;
+    }
+
+    .form_reviews_assessment input[name="reviews_name"]{
+        width: 100%;
+    }
+    .reviews_assessment .all_assessment {
+        margin: 5px 0 5px 0;
+    }
+
+    #wac2_company_personal_area .widgets_post{
+        width: 15%;
+    }
+    #wac2_company_personal_area #company_post{
+        width: 70%;
+    }
+    #wac2_company_personal_area .add_row_widget_one{
+        margin: 0 0 4px 0;
+    }
+}
+
+@media screen and (max-width: 619px) {
+    .row_wac2_registration_company2 > div:nth-child(2){
+        width: 100%;
+    }
+    .row_wac2_registration_company2 > div:nth-child(2) > input{
+        width: 100%;
+    }
+    .row_wac2_registration_company2 > div:nth-child(1){
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 419px) {
+    .row_wac2_registration_company2 > div:nth-child(1) > label{
+        font-size: 14px;
+    }
+    .bio_wac2_registration_company2 > div:nth-child(1) > label{
+        font-size: 14px;
+    }
+    .remember_wac2_registration_company2 > div:nth-child(1) > label{
+        font-size: 14px;
+    }
+
+    .row_wac2_login_company_user > div:nth-child(1) > label{
+        font-size: 14px;
+    }
+    .remember_wac2_login_company_user > div:nth-child(1) > label{
+        font-size: 14px;
+    }
+}
+@media screen and (max-width: 1023px) {
+    .submit_wac2_registration_company2{
+        margin: 0;
+    }
+    .page .post-wrap .post-content{
+        margin: 0 !important;
+    }
+    .wac2_login_submit{
+        margin: 0;
+    }
+}
+
+@media screen and (max-width: 620px) {
+    #wac2_company_personal_area .widgets_post{
+        display: none;
+    }
+    #wac2_company_personal_area #company_post{
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    #wac2_company_personal_area .get_widgets{
+        width: 101px;
+    }
+    #wac2_company_personal_area .get_widgets .widgets_post_all_one{
+        width: 101px;
+    }
+    #wac2_company_personal_area .one_get_widgets .get_widgets {
+        width: 208px;
+    }
+    #wac2_company_personal_area #company_post .one_get_widgets .get_widgets .widgets_post_all_one {
+        width: 208px;
+    }
+    #wac2_company_personal_area .get_widgets > div{
+        background-size: contain;
+    }
+    #wac2_company_personal_area .add_row_widget_one{
+        margin: 0 0 4px 0;
+    }
+    #wac2_company_personal_area .add_widget_plus_i > div{
+        margin: 0 0 0 -114px;
+    }
+    #wac2_company_personal_area .one_get_widgets .add_widget_plus_i > div{
+        margin: 0 0 0 -148px;
+    }
+    #wac2_company_personal_area .delete_row_widget{
+        top: -172px;
+        right: -125px;
+    }
+}
+
+@media screen and (max-width: 334px) {
+    #wac2_company_personal_area .delete_row_widget{
+        top: -190px;
+        right: -125px;
+    }
+}
+@media screen and (min-width: 451px) and (max-width: 496px) {
+    #wac2_company_personal_area .delete_row_widget{
+        top: -174px;
+        right: -183px;
+    }
+}
+@media screen and (min-width: 672px) and (max-width: 743px) {
+    #wac2_company_personal_area .delete_row_widget{
+        top: -134px;
+        right: -139px;
+    }
+}
+@media screen and (min-width: 621px) and (max-width: 671px) {
+    #wac2_company_personal_area .delete_row_widget{
+        top: -174px;
+        right: -139px;
+    }
+}
+
+@media screen and (max-width: 866px) {
+    .wac2_w_w_h{
+        position: absolute;
+        width: 100%;
+        height: auto;
+        left: 0;
+        top: 0;
+        margin: 0;
+    }
+}
+@media screen and (max-width: 550px) {
+    .meta_box_basic_description_company #title_company_modal{
+        width: 100%;
+    }
+    .meta_box_contacts > form > div > input{
+        width: 100%;
+    }
+    .meta_box_countries select{
+        width: 100%;
+    }
+}
+@media screen and (max-width: 619px) {
+    .row_wac2_registration_company2 > div:nth-child(3) > div > img{
+        top: -24px;
+    }
+}
+
+@media screen and (max-width: 619px) {
+    .wac2_head_user > div:last-child{
+        float: none;
+    }
+}
+
+@media screen and (max-width: 1328px) {
+    .one_company_list .assessment_one_r .assessment_one{
+        font-size: 30px;
+        top: -17px;
+    }
+}
+
+@media screen and (max-width: 753px) {
+    .one_company_list .assessment_one_r .assessment_one{
+        font-size: 20px;
+    }
+    .one_company_list .assessment_one_r{
+        top: -17px;
+    }
+}
+
+@media screen and (max-width: 625px) {
+    .one_company_list .wac2_r_list > div{
+        display: block;
+        text-align: center;
+        width: 100%;
+    }
+    .one_company_list .wac2_logo{
+        width: 20% !important;
+    }
+    .wac2_r_list{
+        text-align: -webkit-center;
+        text-align: -moz-center;
+        text-align: -o-center;
+        text-align: -ms-center;
+    }
+    .one_company_list .assessment_one_r{
+        position: static;
+    }
+}
